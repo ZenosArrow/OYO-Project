@@ -3,13 +3,13 @@ OYO Java project
 
 # Instructions
 
-First, download all files in source folder, as well as build.gradle.
+First, download all files in src folder, as well as build.gradle.
 In IDE, run "gradle build" to pull gradle dependencies. Ensure that src folder is in the buildpath.
 Run ScoreMaster project as Spring Boot App.
 
 # Unit and Integration Tests
 
-Download files in test folder and put in buildpath as source code. Run TestRunner.java as JUnit Application.
+Download files in src/test folder and put in buildpath as source code. Run TestRunner.java as JUnit Application.
 
 # Documentation
 Using Curl commands.
